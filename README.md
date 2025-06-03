@@ -17,7 +17,7 @@ Decision Tree Regressor
 ## ⚙️ How It Works
 The user selects a regression model.
 Inputs a future date.
-The app returns the predicted price of gold on that date using the selected model.
+The app returns the predicted price of gold in USD per ounce of gold on that date using the selected model.
 
 ## 📁 File Information
 MLmodel.py : 4 gold price predictor Models code.

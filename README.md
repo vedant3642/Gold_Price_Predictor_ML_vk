@@ -31,3 +31,8 @@ The dataset used for this project spans from 1978 to 2023, but after data cleani
 However, a sharp and unprecedented rise in gold prices occurred from 2023 to 2025, jumping from $1960 to $3300 — a $1300 increase in just two years. This sudden spike is outside the scope of the training data, which ends in 2023. As a result, the models struggle to accurately predict prices beyond 2023, particularly under such volatile market conditions.
 
 In conclusion, while the Random Forest, Gradient Boosting, LightGBM, and Decision Tree Regressors perform well on historical data with a linear trend, their predictions for recent years are limited by the lack of updated data. To improve accuracy, especially during periods of sudden market changes, the models must be retrained on the most recent data to capture these new trends.
+
+LICENSE
+
+[![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square&logo=github&labelColor=blue&color=lightgrey&logoWidth=20)](LICENSE)
+
